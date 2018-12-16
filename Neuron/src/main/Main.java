@@ -11,6 +11,7 @@ public class Main {
         String s = in.nextLine();
         System.out.println("you selected " + s);
         in.close();
+        
 	}
 
 }
